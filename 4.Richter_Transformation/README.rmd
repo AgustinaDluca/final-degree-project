@@ -1,1 +1,4 @@
+This folder contains all scripts related to the richter transformation dataset. 
 
+model_label_transfer.R: Generation of the model to transfere the RT annotations into our data with the MatchScore package.
+richter_transformation.R: Analysis of all patients from the RT dataset and then analysis of these samples merged (RNA Assay)
