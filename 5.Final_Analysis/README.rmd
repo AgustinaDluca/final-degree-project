@@ -1,1 +1,6 @@
+This folder contains all scripts with final analysis once T cells were removes in merged data.
 
+final_RNA_analysis.R: Final transcriptomics analysis with all merged samples (RNA Assay)
+final_RNA_analysis.R: Final epigenomics analysis with all merged samples (ATAC Assay)
+differential abundance_testing.R: Differential abundance between conditions with sccomp.glm and miloR
+signature.R: Signature construction  
