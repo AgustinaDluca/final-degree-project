@@ -1,1 +1,8 @@
-a
+This folder contains all analysis related to individual samples. We analyzed all samples separatelly and explored the ZAP70 marker within each one. Furthermore you can also find the analysis by sample after removing the T cells from the datasets.
+
+S_180574.R: Analysis of sample 1
+S_210183.R: Analysis of sample 2
+S_210414.R: Analysis of sample 3
+S_211855.R: Analysis of sample 4
+ZAP70.R: Exploration of the ZAP70 marker within each sample separatelly
+Samples_no_Tcells.R: Analysis of each sample individually after removing the T cells
