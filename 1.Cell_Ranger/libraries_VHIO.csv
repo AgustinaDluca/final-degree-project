@@ -1,0 +1,9 @@
+fastqs,sample,library_type
+/ijc/LABS/MEREU/RAW/MEREU_VHIO_multiome/01/RNA/L628,S_210183,Gene Expression
+/ijc/LABS/MEREU/RAW/MEREU_VHIO_multiome/01/ATAC/L624,S_210183,Chromatin Accessibility
+/ijc/LABS/MEREU/RAW/MEREU_VHIO_multiome/01/RNA/L629,S_210414,Gene Expression
+/ijc/LABS/MEREU/RAW/MEREU_VHIO_multiome/01/ATAC/L625,S_210414,Chromatin Accessibility
+/ijc/LABS/MEREU/RAW/MEREU_VHIO_multiome/01/RNA/L630,S_211855,Gene Expression
+/ijc/LABS/MEREU/RAW/MEREU_VHIO_multiome/01/ATAC/L626,S_211855,Chromatin Accessibility
+/ijc/LABS/MEREU/RAW/MEREU_VHIO_multiome/01/RNA/L631,S_180574,Gene Expression
+/ijc/LABS/MEREU/RAW/MEREU_VHIO_multiome/01/ATAC/L627,S_180574,Chromatin Accessibility
