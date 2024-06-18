@@ -1017,5 +1017,3 @@ Clusters_samples <- ggplot(proportions, aes(x = factor(Var1), y = Freq, fill = V
   theme_classic() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1), legend.position = "top") +
   scale_fill_manual(values = cols_anno)
-
-Clusters_samples
