@@ -1,5 +1,7 @@
 # BiocManager::install("UCell")
 library(UCell)
+library(dplyr)
+library(Seurat)
 
 signature <- list("CLL_bad.prognosis_signature"= c("ZAP70", "CD38","CD27","CXCR4","IGHM", "MZB1","XBP1", 'HDAC9', 'HSD17B12', 'GTF2E2'))
 
