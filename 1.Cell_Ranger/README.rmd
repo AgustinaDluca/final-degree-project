@@ -17,3 +17,5 @@ libraries_S210183.csv: This CSV file specifies the libraries used for processing
 libraries_S210414.csv: This CSV file specifies the libraries used for processing single-cell multiomic data for sample S_210414. It includes paths to FASTQ files, sample identifiers, and the type of library for each dataset.
 
 libraries_S211855.csv: This CSV file specifies the libraries used for processing single-cell multiomic data for sample S_211855. It includes paths to FASTQ files, sample identifiers, and the type of library for each dataset.
+
+libraries_VHIO.csv: This CSV file lists the libraries used for processing multiple single-cell multiomic data samples for the VHIO project. It includes paths to FASTQ files, sample identifiers, and the type of library for each dataset. This file is used by the aggregation script (cr_aggr_allsamples.sh) to combine data from multiple samples.
