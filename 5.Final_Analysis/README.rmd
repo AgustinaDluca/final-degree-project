@@ -3,4 +3,5 @@ This folder contains all scripts with final analysis once T cells were removes i
 final_RNA_analysis.R: Final transcriptomics analysis with all merged samples (RNA Assay)
 final_RNA_analysis.R: Final epigenomics analysis with all merged samples (ATAC Assay)
 differential abundance_testing.R: Differential abundance between conditions with sccomp.glm and miloR
-signature.R: Signature construction  
+
+signature.R:  this script is designated for the bad prognosis signature contruction, with the UCell package, and its visualizations. It focuses on exploring and visualizing gene expression patterns associated with specific gene sets related to bad prognosis in CLL in different clusters derived from the multiome analysis.
