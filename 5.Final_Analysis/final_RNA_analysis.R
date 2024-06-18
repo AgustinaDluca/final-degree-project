@@ -1,3 +1,14 @@
+library(dplyr)
+library(Seurat)
+library(patchwork)
+library(PCAtools)
+library(devtools)
+library(hdf5r)
+library(Signac)
+library(biovizBase)
+library(matchSCore2)
+library(grDevices)
+
 # Load the object into R
 data = readRDS('Documents/Documents/after_meeting/data.NOCD3/final/data_final.rds')
 
