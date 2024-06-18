@@ -6,5 +6,4 @@ RNA_ATAC_all_samples.R: This script outlines a robust workflow for analyzing mul
 
 RNA_all_samples.R: This script is designed for analyzing single-cell RNA-seq data from all merged samples using Seurat in R. It follows a structured pipeline that includes data loading, quality control (QC), normalization, dimensionality reduction (such as PCA and t-SNE), cell clustering based on gene expression profiles, identification of marker genes for different cell types or states, and visualization of results. This approach helps uncover cellular heterogeneity and biological insights from RNA-seq data, enabling detailed exploration of gene expression patterns across individual cells or conditions.
 
-ZAP70_integrated.R: Exploration of the ZAP70 marker of all samples merges
 
