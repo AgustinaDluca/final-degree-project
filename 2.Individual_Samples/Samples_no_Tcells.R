@@ -5,6 +5,17 @@
 # 3. Hacer label transfere (todo y por samples) from the RT data a mi data (matchscore)
 # 4. Analizar las leukemic clouds
 
+library(dplyr)
+library(Seurat)
+library(patchwork)
+library(PCAtools)
+library(devtools)
+library(hdf5r)
+library(Signac)
+library(biovizBase)
+library(matchSCore2)
+library(grDevices)
+
 ## My data
 data = readRDS('Documents/Documents/MULTIOME/data_oficial.rds') 
 
