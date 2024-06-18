@@ -1,1 +1,7 @@
-a
+Here you can find a brief description of each script/file:
+
+cr_aggr_allsamples.sh: This script aggregates multiple single-cell multiomic data samples using Cell Ranger ARC from 10x Genomics. It utilizes SLURM for job scheduling, requesting specific computational resources and setting email notifications. The script loads the necessary Cell Ranger ARC module, sets the working directory, and runs the aggregation process with specified parameters, including input libraries, normalization method, reference genome, and resource allocation.
+
+
+
+
