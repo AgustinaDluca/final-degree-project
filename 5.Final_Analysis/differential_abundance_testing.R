@@ -1,9 +1,13 @@
 ####################
-
 ## Differential abundance testing - sccomp_glm 
 
 # (https://www.bioconductor.org/packages/release/bioc/vignettes/sccomp/inst/doc/introduction.html#installation)
 # (https://www.bioconductor.org/packages/release/bioc/manuals/sccomp/man/sccomp.pdf)
+
+#if (!requireNamespace("BiocManager")) install.packages("BiocManager")
+#BiocManager::install("sccomp")
+
+library(sccomp)
 
 data$prognosis <- ifelse(data$orig.ident %in% c('S2', 'S3'), "bad.prognosis", "good.prognosis")
 
